@@ -159,7 +159,3 @@ These insights can directly support:
 * Apply topic modeling (LDA) for deeper thematic clustering.
 
 ---
-
-## Mentorship
-
-This project was completed under the guidance of **WsCube Tech** as part of the Data Analytics curriculum, focusing on real-world, industry-aligned implementation of Web Scraping and NLP.
